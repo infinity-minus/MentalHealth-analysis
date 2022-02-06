@@ -1,5 +1,5 @@
-## MentalHealth-analysis
-# This is an Excel dashboard that analyses the Anxiety, Depression and Stress levels in an individual.
+# MentalHealth-analysis
+## This is an Excel dashboard that analyses the Anxiety, Depression and Stress levels in an individual.
 
 Source of the dataset: https://www.kaggle.com/yamqwe/depression-anxiety-stress-scales
 This data was collected with an on-line version of the Depression Anxiety Stress Scales (DASS). It was collected between 2017 – 2019.
